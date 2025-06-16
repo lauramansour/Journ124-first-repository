@@ -2,6 +2,6 @@
 
 This is a sample markdown file
 
-##this is a subtitle
+##this is a subtitle##
 
 **bold**
